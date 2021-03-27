@@ -23,7 +23,7 @@ __and__ for &
 __xor__ for ^
 __or__ for |"""
 
- """ Python also provides magic methods for comparisons.
+""" Python also provides magic methods for comparisons.
 __lt__ for <
 __le__ for <=
 __eq__ for ==
@@ -31,7 +31,7 @@ __ne__ for !=
 __gt__ for >
 __ge__ for >="""
 
- """ There are several magic methods for making classes act like containers.
+""" There are several magic methods for making classes act like containers.
  __len__ for len()
 __getitem__ for indexing
 __setitem__ for assigning to indexed values
