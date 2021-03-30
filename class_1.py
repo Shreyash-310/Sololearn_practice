@@ -45,7 +45,7 @@ class C(B):
 class D(A):                     # for another example of inheritence
     def spam(self):
         print(2)
-        super().method()
+        super().method()        # super it calls function from its superclass
 c = C()
 c.method()
 c.another_method()
